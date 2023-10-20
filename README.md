@@ -24,7 +24,7 @@ Utilizing the strengths of the nougat and pypdf libraries, our platform adeptly 
 
 ## Steps for Recreation
 
-
+Codelabs link: https://codelabs-preview.appspot.com/?file_id=1c5N2OUx67xSNte6I88tp46t5i7RW64xoNQTqdfpp1Jc#8
 
 
 ## File Structure
