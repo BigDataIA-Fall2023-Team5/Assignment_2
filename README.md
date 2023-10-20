@@ -27,11 +27,12 @@ Utilizing the strengths of the nougat and pypdf libraries, our platform adeptly 
 
 
 ## File Structure
+<img width="407" alt="Screenshot 2023-10-20 at 3 03 22 PM" src="https://github.com/BigDataIA-Fall2023-Team5/Assignment_2/assets/114001023/d151e9f8-165b-4a32-b5e7-a0135cea3b38">
 
 ## Attestations
-WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
-
-Contribution by each member:
-● Anamika Bharali: 33.3%
-● Saniya Kapur: 33.3%
-● Shruti Suresh Mundargi: 33.3%
+WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK<br>
+<br>
+Contribution by each member:<br>
+● Anamika Bharali: 33.3%<br>
+● Saniya Kapur: 33.3%<br>
+● Shruti Suresh Mundargi: 33.3%<br>
