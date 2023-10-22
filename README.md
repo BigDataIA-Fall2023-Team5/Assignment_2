@@ -4,6 +4,8 @@ Streamlit App link: https://fastapi-pdf-qna.streamlit.app/
 <br>
 [![Video Thumbnail](Vid_thumbnail_2.jpeg)](https://youtu.be/rQN8Xzhss14)
 
+
+
 <br>
 This project develops an integrated tool that allows financial analysts to upload PDF URLs, primarily from the SEC website, and receive concise summaries. Furthermore, leverage advanced techniques to build a Q/A system for deep-diving into the document's content.<br>
 <br>
