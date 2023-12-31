@@ -2,7 +2,7 @@
 ## Assignment 2
 Streamlit App link: https://fastapi-pdf-qna.streamlit.app/
 <br>
-[![Video Thumbnail](Vid_thumbnail_2.jpeg)](https://youtu.be/rQN8Xzhss14)
+[![Video Thumbnail](Vid_thumbnail_2.jpeg)](https://www.youtube.com/watch?v=rQN8Xzhss14)
 
 
 
