@@ -3,11 +3,8 @@
 Streamlit App link: https://fastapi-pdf-qna.streamlit.app/
 <br>
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/rQN8Xzhss14?si=GP1JI6XkJ0b4OEfq"
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+
+[![Video_Demo](//github.com/BigDataIA-Fall2023-Team5/Assignment_2/blob/main/Vid_thumbnail_2.jpeg)](https://www.youtube.com/watch?v=rQN8Xzhss14)
 
 
 
