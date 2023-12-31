@@ -4,7 +4,7 @@ Streamlit App link: https://fastapi-pdf-qna.streamlit.app/
 <br>
 
 
-[![Vid_thumbnail_2.jpeg](//github.com/BigDataIA-Fall2023-Team5/Assignment_2/blob/main/Vid_thumbnail_2.jpeg)](https://www.youtube.com/watch?v=rQN8Xzhss14)
+[![Video_Demo](Vid_thumbnail_2.jpeg)](https://www.youtube.com/watch?v=rQN8Xzhss14)
 
 
 
